@@ -1,2 +1,2 @@
-# CDC_Topcoder_Competition
-CDC NLP competition
+# CDC-Topcoder-Competition
+https://www.cdc.gov/niosh/updates/upd-02-26-20.html
